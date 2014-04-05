@@ -1,0 +1,2 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(compoisson, com.mean, com.var)

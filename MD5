@@ -1,0 +1,12 @@
+8d7eec4b08ab21b4fa59c5f388365ec4 *DESCRIPTION
+19425ab947a82cee1e49361201e5d732 *NAMESPACE
+3028c270614ac8be1099f91408d2f3cc *R/CMPControlCharts-internal.R
+6e93fa1f274b078fa0f45972647a0bd9 *R/ComputeLambdaAndNuHat.shiftCMPest.R
+2dea1fe994fc3a51f3f13883d17ad02e *R/ControlCharts.R
+ceb03d995d33dfee2970fe3b921d3a4d *R/computez.lambdaest.R
+aea8f82c71ea14a8680c707880acc621 *data/nonconformities.rda
+a91f9fc82bca63bcfc6dbe2eb8b4c1ca *man/CMPControl-package.Rd
+5cc52f03e3b5a8886a4f7aff1e1f246d *man/ComputeLambdaAndNuHat.shiftCMPest.Rd
+174f96a4cc5c22fa5c6a4dbce71b77c0 *man/ControlCharts.Rd
+d8a619ad743b326aeb48b66bcd5d979f *man/computez.lambdaest.Rd
+d686cb5e644d2f8882b26d71ca94dc9c *man/nonconformities.Rd
